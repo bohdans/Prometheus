@@ -56,7 +56,7 @@ public class Cat : AnimalWithTail
 
     }
 
-    public override string MakeSound ()
+    public override string MakeSound()
     {
 
         return Purr() + Meow();
